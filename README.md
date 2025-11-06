@@ -2,30 +2,7 @@
 
 A collection of Jupyter Notebooks for exploring, cleaning, visualizing, and modeling grocery/sales data. This repository provides reproducible analysis steps and example notebooks to help you understand demand patterns, customer behaviour, and product performance using common Python data-science tools.
 
-> Note: Replace any placeholder sections (dataset source, notebook list, license, contact) with details specific to your project.
 
----
-
-## Repository structure (suggested)
-- notebooks/ or .ipynb files in the root — Jupyter Notebooks with analyses and experiments
-- data/ — (not tracked) place CSV/Parquet files here, or update notebook paths
-- requirements.txt — (optional) Python dependencies
-- README.md — this file
-
-Update these paths to match your repo layout.
-
----
-
-## Notebooks (update with actual filenames)
-- Exploratory_Data_Analysis.ipynb — overview, distributions, missingness, basic visualizations
-- Cleaning_and_Feature_Engineering.ipynb — data cleaning, transformations, feature creation
-- Sales_Forecasting.ipynb — time-series modeling and forecasting examples
-- Customer_Segmentation.ipynb — clustering and segmentation analyses
-- Model_Evaluation_and_Deployment.ipynb — evaluation, saving models, basic deployment notes
-
-Replace or remove entries above with the actual notebooks in this repo.
-
----
 
 ## Getting started
 
@@ -105,9 +82,3 @@ Add a license file (e.g., MIT, Apache-2.0) or update this section with the repos
 For questions or collaboration, add your preferred contact information or link to your GitHub profile.
 
 ---
-
-If you want, I can:
-- generate a ready-to-paste README.md populated with the exact notebook filenames found in this repository, or
-- create a requirements.txt based on the notebooks’ imports.
-
-— GitHub Copilot Chat Assistant
